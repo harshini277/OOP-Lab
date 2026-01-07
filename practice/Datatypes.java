@@ -18,12 +18,7 @@ public class datatypes{
 		System.out.println("Height: "+height);
 		System.out.println("Weight: "+weight);
 		System.out.println("BMI: "+bmi);
-		if ((bmi<25)&&(bmi>18)){
-			System.out.println("Normal Weight: "+normalWeight);
-		}
-		else{
-			normalWeight = false;
-			System.out.println("Normal Weight: "+normalWeight);
-		}
+		System.out.println("Normal Weight: "+normalWeight);
 	}
 }
+
