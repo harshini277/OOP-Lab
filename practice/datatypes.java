@@ -8,7 +8,7 @@ public class datatypes{
 
 		float height = 1.75f;
 		double weight = 68.5d;
-		boolean normalWeight= true;
+		boolean normalWeight;
 		double bmi;
 		bmi = weight/(height*height);
 
@@ -18,6 +18,11 @@ public class datatypes{
 		System.out.println("Height: "+height);
 		System.out.println("Weight: "+weight);
 		System.out.println("BMI: "+bmi);
+		if(bmi<25 && bmi>18){
+			normalWeight = true;
+		}else{
+			normalWeight = false;
+		}
 		System.out.println("Normal Weight: "+normalWeight);
 	}
 }
