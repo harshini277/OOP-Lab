@@ -1,3 +1,4 @@
+/*nested for*/
 import java.util.*;
 public class sequences{
 	public static void main(String args[]){
@@ -9,4 +10,5 @@ public class sequences{
 		}
 	}
 }
+
 
