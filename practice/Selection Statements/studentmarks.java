@@ -1,3 +1,4 @@
+/*if-elseif-else ladder*/
 import java.util.*;
 public class studentMarks {
 	public static void main(String args[]){
@@ -35,3 +36,4 @@ public class studentMarks {
 }
 
 			
+
