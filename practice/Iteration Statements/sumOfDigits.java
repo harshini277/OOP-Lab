@@ -1,3 +1,4 @@
+/*do while*/
 import java.util.*;
 public class sumOfDigits {
 	public static void main(String args[]){
@@ -14,3 +15,4 @@ public class sumOfDigits {
 		System.out.println("Sum of digits: "+sum);
 	}
 }
+
