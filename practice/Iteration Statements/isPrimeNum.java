@@ -1,3 +1,4 @@
+/*for loop*/
 import java.util.*;
 public class isPrimeNum{
 	public static void main(String args[]){
@@ -18,4 +19,5 @@ public class isPrimeNum{
 			System.out.println(n+" is not a prime number.");
 		}
 	}
+
 }
