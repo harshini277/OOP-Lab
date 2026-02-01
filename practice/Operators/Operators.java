@@ -1,4 +1,4 @@
-public class operators {
+public class Operators {
 	public static void main(String args[]){
 		int math = 98;
 		int phy = 99;
@@ -20,4 +20,5 @@ public class operators {
 
 		
 		
+
 		
