@@ -1,6 +1,6 @@
 /*if-elseif-else ladder*/
 import java.util.*;
-public class studentMarks {
+public class StudentMarks {
 	public static void main(String args[]){
 		int math,phy,chem,cs,eng;
 		double score;
@@ -36,4 +36,5 @@ public class studentMarks {
 }
 
 			
+
 
