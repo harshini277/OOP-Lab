@@ -1,4 +1,4 @@
-public class datatypes{
+public class Datatypes{
 	public static void main(String args[]){
 		long yearOfBirth= 1980L;
 		short dayOfBirth = 22;
@@ -26,4 +26,5 @@ public class datatypes{
 		System.out.println("Normal Weight: "+normalWeight);
 	}
 }
+
 
